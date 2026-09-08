@@ -12,9 +12,9 @@ This is my personal developer portfolio showcasing my projects, technical skills
 - Project showcase section
 - Clean and modern UI
 
-##💡 About Me
+## 💡 About Me
 I am a full stack developer with a strong interest in backend systems and game development. I have experience building modular and scalable systems, including projects in Roblox using object-oriented programming principles.
 
-##📬 Contact
+## 📬 Contact
 GitHub: https://github.com/jmnpjayden
 Email: jaydenjmnppratt@gmail.com
